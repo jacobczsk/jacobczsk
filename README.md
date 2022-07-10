@@ -1,7 +1,7 @@
 # JacobCZ
 ## 🇨🇿 CZ 🇨🇿
 👋 Vítejte na mém GitHub profilu!  
-Jsem proesně Java a C# developer, ale ve volném čase většinou používám Python.
+Jsem profesně Java a C# developer, ale ve volném čase většinou používám Python.
 
 ## :uk: :us: EN :us: :uk:
 👋 Welcome to my GitHub profile!  
